@@ -1,0 +1,19 @@
+{
+  "name": "SeedDBCommands",
+  "version": "0.0.1",
+  "description": "Uses BigCheese to grab info from SeedDB and turn it into useful data strcutures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhgaylor/SeedDBCommands"
+  },
+  "author": "Jake Gaylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhgaylor/SeedDBCommands/issues"
+  },
+  "homepage": "https://github.com/jhgaylor/SeedDBCommands"
+}
