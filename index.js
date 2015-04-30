@@ -1,7 +1,7 @@
 var Commands = require('./src/Commands');
 var DataSources = require('./src/DataSources');
 
-modules.exports = {
+module.exports = {
 	Commands: Commands,
 	DataSources: DataSources
 };
