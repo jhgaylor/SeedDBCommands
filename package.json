@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jhgaylor/SeedDBCommands/issues"
   },
-  "homepage": "https://github.com/jhgaylor/SeedDBCommands"
+  "homepage": "https://github.com/jhgaylor/SeedDBCommands",
+  "dependencies": {
+    "big-cheese": "0.0.1"
+  }
 }
